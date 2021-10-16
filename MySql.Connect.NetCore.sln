@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql.Connect.NetCore", "MySql.Connect.NetCore.csproj", "{560AA836-E9D7-4EED-BFF1-7568A60B06FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560AA836-E9D7-4EED-BFF1-7568A60B06FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560AA836-E9D7-4EED-BFF1-7568A60B06FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560AA836-E9D7-4EED-BFF1-7568A60B06FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560AA836-E9D7-4EED-BFF1-7568A60B06FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A504CF1-0855-4003-BDE8-E38DB8F0C3A0}
+	EndGlobalSection
+EndGlobal
